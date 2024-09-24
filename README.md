@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maria Fernanda de Melo Soares
-- 👀 I’m interested in Github
+- 👀 I’m interested in to improve on github
 - 🌱 I’m currently projects in alura
 - 💞️ I’m looking to improve my alura projects
 - 📫 How to reach:trying hard
