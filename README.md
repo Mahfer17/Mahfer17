@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Mahfer17
-- 👀 I’m interested in astronomy
-- 🌱 I’m currently learning to trust myself
-- 💞️ I’m looking to collaborate on for my betterment
-- 📫 How to reach me being a good person
+- 👋 Hi, I’m Maria Fernanda de Melo Soares
+- 👀 I’m interested in Github
+- 🌱 I’m currently projects in alura
+- 💞️ I’m looking to improve my alura projects
+- 📫 How to reach:trying hard
 - 😄 Pronouns:her
-- ⚡ Fun fact: I really like animals
+- ⚡ Fun fact: I don't like technology at all
 
 <!---
 Mahfer17/Mahfer17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
